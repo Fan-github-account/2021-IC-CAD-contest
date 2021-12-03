@@ -7,6 +7,8 @@ The above picture is the final testcase result and participating this contest is
 
 I won the first prize.
 
+The pdf file is the topic report was made by three people, but the contest program was coded only by myself.
+
 IC/CAD contest website: http://iccad-contest.org/2021/tw/03_problems.html  
 
 The problem I participate : http://iccad-contest.org/2021/tw/Problem%20F_r9.pdf
